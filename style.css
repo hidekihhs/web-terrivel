@@ -1,0 +1,13 @@
+#formGet {
+	width: 600px; 
+	float: left;
+	padding-left: 10px;
+	border: 2px solid black;
+
+}
+
+#formPost {
+	margin-left: 625px;
+	padding-top: 1px;
+	border: 2px solid black;
+}
